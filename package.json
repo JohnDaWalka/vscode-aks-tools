@@ -542,7 +542,7 @@
         "sinon": "^18.0.0",
         "ts-loader": "^9.5.1",
         "typescript": "^5.5.4",
-        "webpack": "^5.93.0",
+        "webpack": "^5.101.0",
         "webpack-cli": "^5.1.4"
     },
     "dependencies": {
@@ -570,7 +570,7 @@
         "rxjs": "^7.8.1",
         "semver": "^7.6.3",
         "sinon": "^18.0.0",
-        "tmp": "^0.2.3",
+        "tmp": "^0.2.4",
         "uuid": "^10.0.0",
         "vscode-kubernetes-tools-api": "^1.0.0"
     },
